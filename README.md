@@ -6,6 +6,6 @@ A modular, production-ready framework for RAG (Retrieval-Augmented Generation) a
 ## Overview & Impact
 This repository bridges the gap between theoretical AI models and practical B2B automation workflows for researchers and developers. 
 
-* **Maintainer:** [Kullanıcı Adınız]
+* **Maintainer:** [naimoglu.selkan@gmail.com]
 * **Architecture:** Built with modular components supporting LangChain, LangGraph, and automated security pipelines.
 * **Ecosystem Role:** Serves as a foundational integration framework for AI automation, academic research teams, and secure system architectures.
